@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(234, 154, 189);
+ }
+ .left{
+     display: inline-block;
+ position: absolute;
+ left: 4px;
+ top: 15px;
+ }
+ .mid{
+     margin: 20px auto;
+         display: block;
+         width: 25%;
+     
+ }
+ .right{
+     display: inline-block;
+ position: absolute;
+ left: 1429px;
+ top: 15px;
+ }
+ .image img{
+     display: inline-block;
+     position:absolute;
+     top: 140px;
+     left: 178px;
+     size: 1px;
+ }
+ .p2{
+     position: absolute;
+     top: 134px;
+     left: 234px;
+ }
+ .btn{
+     position: absolute;
+     top: 215px;
+     left: 166px;
+     background-color: yellow;
+     text-decoration: none;
+ }
+ input{
+     background-color: white;
+ }

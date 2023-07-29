@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(234, 154, 189);
+ }
+     h1{
+    display: inline-block;
+    position: absolute;
+    left: 559px;
+    top: 3px;}
+h3{
+    display: inline-block;
+    position: absolute;
+    left: 559px;
+    top: 85px; 
+}
+    .container{
+    display: inline-block;
+    position: absolute;
+    left: 559px;
+    top: 162px; 
+    font-size: large;
+    color: red;
+    }
+    .name1{
+        padding: 0px 40px;
+    }
+    img{
+        display: inline-block;
+    position: absolute;
+    left: 134px;
+    top: 2px; 
+    }
+    .name2{
+        display: inline-block;
+    position: absolute;
+    left: 194px;
+    top: -3px; 
+    padding: 0px 40px; 
+    }
+    .percent{
+        display: inline-block;
+    position: absolute;
+    /* left: 145px;
+    top: 71px;  */
+    font-size: 50px;  
+    margin:41% 92%;
+    }
+    .para{
+        display: inline-block;
+    position: absolute;
+    left: 57px;
+    top: 359px;   
+    margin: 10px 40px;
+   
+    }
